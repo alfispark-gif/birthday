@@ -1,0 +1,14 @@
+{
+  "name": "birthday-surprise",
+  "version": "1.0.0",
+  "description": "A cute pixel-art birthday gift surprise desktop app",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
